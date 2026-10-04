@@ -38,27 +38,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Start Your Journey in The Piper of Dawn",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the resonance basics, breath stamina, and the dawn-to-dusk cycle that drive every puzzle and encounter."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Alchemy & Crafting",
+          "description": "Gather elemental reagents and upgrade four workstation tiers to brew potions, elixirs, and permanent draughts."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Combat & Boss Tips",
+          "description": "Read attack telegraphs, dodge acoustic hazards, and survive the three-phase encounters that gate your progression."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Characters & Companions",
+          "description": "Compare the six playable heroes and build a party around melodic support, solar defense, or twilight burst damage."
         }
       ]
     },
@@ -66,237 +66,339 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Alchemy Recipes",
+        "Character Builds",
+        "All Endings"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Master resonance, breath stamina, and the day cycle from your first chime shrine.",
+          "href": "/guide/the-piper-of-dawn-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Alchemy Guide",
+          "description": "Reagent affinities, four workstation tiers, and step-by-step masterwork elixirs.",
+          "href": "/mechanics/the-piper-of-dawn-alchemy"
+        },
+        {
+          "badge": "Popular",
+          "title": "Character Roster",
+          "description": "Roles, elemental resonance, and build paths for all six playable heroes.",
+          "href": "/characters/the-piper-of-dawn-characters"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "All Endings",
+          "description": "Branch points, alignment routing, and the secret transcendent finale.",
+          "href": "/progression/the-piper-of-dawn-endings"
+        },
+        {
+          "badge": "Popular",
+          "title": "Farming Routes",
+          "description": "Boss attack patterns, drop tables, and the fastest instance reset loops.",
+          "href": "/mechanics/the-piper-of-dawn-farming"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Combat Tips",
+          "description": "Phase-by-phase tactics for reading sound waves and surviving the enrage.",
+          "href": "/guide/the-piper-of-dawn-tips"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Full Walkthrough",
+          "description": "Act-by-act progression, collectible checklist, and completionist routing.",
+          "href": "/guide/the-piper-of-dawn-walkthrough"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Crafting System",
+          "description": "Production chains and upgrade materials for every crafted item.",
+          "href": "/mechanics/the-piper-of-dawn-crafting"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Updated",
+          "title": "Release Date",
+          "description": "Roadmap windows, platform plans, and the latest development updates.",
+          "href": "/reviews/the-piper-of-dawn-release-date"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is The Piper of Dawn?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "The Piper of Dawn is a dark fantasy action RPG set in a cursed valley where music, resonance, and daylight shape every encounter. You take up the ancestral reed pipe of the Piper, switching pitch and managing breath stamina to solve environmental puzzles, activate chime shrines, and survive the spectral threats that emerge after dusk.",
+        "Beyond its melodic exploration, the game layers alchemy crafting, resource farming, and companion-driven combat. Gather reagents such as Dawn-Bloom and Silverleaf, upgrade four tiers of workstations, assemble a party of six heroes, and steer a branching story toward four main endings plus a hidden transcendent finale."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
+          "label": "Publisher",
+          "value": "2P Games"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Steam / PC"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Dark Fantasy Action RPG"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Playtime",
+          "value": "6-9 Hours"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Playable Heroes",
+          "value": "6"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Main Endings",
+          "value": "4 + 1 Secret"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Pipe Tiers",
+          "value": "4"
+        },
+        {
+          "label": "Alchemy Stations",
+          "value": "4"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore The Piper of Dawn Wiki",
+      "description": "Dive into every system with structured guides covering alchemy, farming, characters, endings, achievements, updates, and advanced combat tips.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "The Piper of Dawn Wiki Beginner Guide",
+          "description": "A starter guide covering the first workshop setup, farming loop, shop management, alchemy basics, and early progression tips. This section helps new players understand the core gameplay cycle and avoid common mistakes during the opening hours.",
+          "href": "/guide/the-piper-of-dawn-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Equip the Reed Pipe and keep its condition above eighty percent"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Ring the Hermit's Belltower to reveal chime shrines on your map"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Mirror each shrine's bell sequence to unlock fast travel"
+            },
+            {
+              "label": "4",
+              "detail": "Forage Aether Dew at dawn and Resonant Quartz in the grottos"
+            },
+            {
+              "label": "5",
+              "detail": "Clear the Trial of the Sunken Chimes for the Dawn Relic"
+            },
+            {
+              "label": "6",
+              "detail": "Rest at a campfire before dusk to avoid hallucination debuffs"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "The Piper of Dawn Wiki Alchemy Guide",
+          "description": "A detailed guide for the alchemy system, including crafting materials, recipes, production chains, and ways to improve workshop efficiency. Players searching for how to make products and unlock alchemy mechanics can find structured information here.",
+          "href": "/mechanics/the-piper-of-dawn-alchemy",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Dawn-Bloom",
+              "detail": "Solar petal gathered at sunrise for high-purity restorative brews"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Gloom-Cap",
+              "detail": "Abyssal cave spore used in neuro-paralysis distillates"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Silverleaf",
+              "detail": "Lunar frond harvested at midnight to boost mana regeneration"
+            },
+            {
+              "label": "Pyrite",
+              "detail": "Terrestrial lichen rich in fortifying mineral salts"
+            },
+            {
+              "label": "Crucible",
+              "detail": "Tier 3 workstation that unlocks combat elixirs and elemental oils"
+            },
+            {
+              "label": "Athanor",
+              "detail": "Tier 4 array required for transmutations and permanent draughts"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "The Piper of Dawn Wiki Farming Guide",
+          "description": "This module explains crop growing, magical plants, harvesting strategies, and resource preparation for the shop and alchemy systems. It targets players looking for efficient farming methods and better production planning.",
+          "href": "/mechanics/the-piper-of-dawn-farming",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Mobile Spellcaster and Dual-Wield Assassin builds clear the fastest"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "DoT Trapper and Sentry archetypes sustain high clear speed with area control"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Juggernaut and Bruiser builds trade speed for extreme survivability"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Pure Support and Healer builds clear slowly solo but shine in co-op"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "The Piper of Dawn Wiki Characters Guide",
+          "description": "A character-focused section covering NPC relationships, heroines, factions, and story interactions. It helps players understand relationship routes and the choices that influence different outcomes.",
+          "href": "/characters/the-piper-of-dawn-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "The Piper",
+              "detail": "Melodic Enchanter who alters turn order and silences enemy casters"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Lyra",
+              "detail": "Sylvan Striker whose Piercing Dawn passive stacks crits while stationary"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Bran",
+              "detail": "Solar Warden who pins foes and mitigates area damage for the party"
+            },
+            {
+              "label": "Corvus",
+              "detail": "Twilight Mystic with stealth burst and armor-stripping Grave-Blight"
+            },
+            {
+              "label": "Aurelia",
+              "detail": "Hybrid healer who restores allies with dawn radiance chimes"
+            },
+            {
+              "label": "Kael",
+              "detail": "Frost and tempest skirmisher built for crowd control"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "The Piper of Dawn Wiki Endings Guide",
+          "description": "A guide explaining branching stories, major choices, faction relationships, and how different decisions affect the game's multiple endings. This targets players searching for completion and story outcomes.",
+          "href": "/progression/the-piper-of-dawn-endings",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Sovereign",
+              "detail": "True purification ending that lifts the ancient curse over the valley"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Hollow",
+              "detail": "Corrupted path taken by accepting the Piper's blood melody pact"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Wanderer",
+              "detail": "Neutral exile ending for balanced Harmony and Discord alignment"
+            },
+            {
+              "label": "Requiem",
+              "detail": "Secret transcendent finale unlocked by fusing all five sigils"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "The Piper of Dawn Wiki Achievements Guide",
+          "description": "A completion guide covering Steam achievements, hidden objectives, and progress requirements. It helps players who want to unlock all achievements and complete every major activity.",
+          "href": "/guide/the-piper-of-dawn-walkthrough",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Collector",
+              "detail": "Hidden completionist achievement for full collectible runs"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "True Dawn",
+              "detail": "Awarded for unlocking the secret true ending path"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Shards",
+              "detail": "Resonant Shards are never permanently missable after Act III"
+            },
+            {
+              "label": "Speedrun",
+              "detail": "Optimized routing cuts a full playthrough to four or five hours"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "The Piper of Dawn Wiki Update Guide",
+          "description": "A news and update tracker collecting official patches, balance changes, fixes, and upcoming content announcements. Players can quickly check the latest version changes and gameplay improvements.",
+          "href": "/reviews/the-piper-of-dawn-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Roadmap",
+              "detail": "Development roadmap targets a late 2026 to mid-2027 release window"
+            },
+            {
+              "label": "Patch",
+              "detail": "Recent updates added rhythmic sprint bursts to improve traversal pacing"
+            },
+            {
+              "label": "Playtest",
+              "detail": "Early alpha impressions praise the audio design and puzzle clarity"
+            },
+            {
+              "label": "Launch",
+              "detail": "Planned for PC and consoles with no firm launch day declared yet"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "The Piper of Dawn Wiki Tips and Tricks",
+          "description": "A collection of advanced gameplay advice covering shop optimization, resource management, worker usage, and efficient progression strategies. This section captures long-tail searches from players looking for practical improvements.",
+          "href": "/guide/the-piper-of-dawn-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Phase 1",
+              "detail": "Dodge the tracking Resonant Pierce and jump the Chord of Dissolution rings"
+            },
+            {
+              "label": "Phase 2",
+              "detail": "Burst the Chorus Drones before their cast bar finishes"
+            },
+            {
+              "label": "Phase 3",
+              "detail": "Stack defensive cooldowns to survive the Dawn's Crescendo enrage"
+            },
+            {
+              "label": "Parry",
+              "detail": "Attacks cannot be parried, so dodge and reposition instead"
+            },
+            {
+              "label": "Stamina",
+              "detail": "Empty breath stamina triggers a five-second hyperventilation lock"
             }
           ]
         }
@@ -304,27 +406,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about The Piper of Dawn.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is The Piper of Dawn?",
+          "answer": "The Piper of Dawn is a dark fantasy action RPG built around musical resonance, alchemy, and branching story choices. You play the Piper, using a reed pipe to solve pitch puzzles, activate chime shrines, and fight spectral threats across a cursed valley."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Do I need musical knowledge to play The Piper of Dawn?",
+          "answer": "No. The Piper of Dawn pairs every tone with visual pitch meters, color-coded rings, and vibration prompts, so players without any musical training can solve its puzzles and clear its encounters."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How long does The Piper of Dawn take to complete?",
+          "answer": "A blind playthrough of The Piper of Dawn runs about six to nine hours. Using an optimized route for chime alignments and dungeon paths can bring a full run down to four or five hours."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How many endings does The Piper of Dawn have?",
+          "answer": "The Piper of Dawn has four main endings plus one secret finale. Your result depends on dialogue choices, alignment between Harmony and Discord, and whether you reject or accept the Piper's pact."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Where should new players start in The Piper of Dawn?",
+          "answer": "Start with the beginner guide, then follow the walkthrough for act-by-act progression. Upgrade your instrument and stamina satchel before entering the Sunken Vale caverns."
         }
       ]
     },
