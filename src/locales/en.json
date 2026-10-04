@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "The Piper of Dawn Wiki",
+    "shortName": "The Piper of Dawn",
+    "tagline": "Alchemy, Farming, Character Routes & Endings",
+    "description": "Your ultimate guide to The Piper of Dawn! Explore alchemy recipes, magical crops, character routes, factions, endings, and progression strategies.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -26,23 +26,23 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "The Piper of Dawn Wiki - Alchemy, Farming & RPG Guides",
+      "description": "Complete The Piper of Dawn Wiki with alchemy guides, farming tips, character routes, faction information, endings, and gameplay strategies for new and experienced players."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Dark Fantasy Alchemy Management Sim",
+      "title": "The Piper of Dawn Wiki",
+      "description": "The Piper of Dawn is a dark fantasy simulation RPG where players become an alchemist in Diamond City, growing magical crops, managing an alchemy shop, building relationships, and discovering multiple story endings.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "100+ Crops Available",
+        "40+ NPCs Available",
+        "6 Factions Available",
+        "Weekly Updates"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
+      "secondaryCta": "Alchemy & Crops Guide",
       "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "videoLabel": "Official Trailer"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master The Piper of Dawn?",
+      "description": "From your first alchemy brew to uncovering every story ending, our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Play on Steam"
     }
   },
   "bosses": {
@@ -379,21 +379,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "The Piper of Dawn Wiki",
+    "about": "The Piper of Dawn Wiki is an independent fan-built guide hub covering alchemy recipes, magical crops, character routes, factions, endings, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
+    "copyright": "2026 The Piper of Dawn Wiki. Not affiliated with 2P Games or the game's developers.",
+    "description": "Dark fantasy alchemy management sim on Steam. Grow magical crops, run an alchemy shop, and uncover multiple story endings.",
+    "playGame": "Play on Steam",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "Alchemy Planner",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Character Guides",
+    "bossGuides": "Faction Guides",
+    "buildGuide": "Alchemy Recipes",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

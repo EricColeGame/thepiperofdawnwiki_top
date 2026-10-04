@@ -12,7 +12,7 @@ import { routing } from "@/i18n/routing";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://thepiperofdawnwiki.top";
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -24,10 +24,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "VV: ULTIMATUM Wiki", template: "%s" },
-    description: "Complete VV: ULTIMATUM fan wiki with codes, bosses, builds, races, guides and progression walkthroughs.",
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    title: { default: "The Piper of Dawn Wiki", template: "%s" },
+    description: "Complete The Piper of Dawn fan wiki with alchemy guides, farming tips, character routes, faction information, endings, and gameplay strategies.",
+    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, title: "The Piper of Dawn Wiki", description: "Complete The Piper of Dawn fan wiki with alchemy guides, farming tips, character routes, faction information, endings, and gameplay strategies.", images: [{ url: image, width: 1438, height: 810, alt: "The Piper of Dawn Wiki" }] },
+    twitter: { card: "summary_large_image", title: "The Piper of Dawn Wiki", description: "Complete The Piper of Dawn fan wiki with alchemy guides, farming tips, character routes, faction information, endings, and gameplay strategies.", images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
