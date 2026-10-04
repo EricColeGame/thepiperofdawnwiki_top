@@ -1,1 +1,506 @@
-{}
+{
+  "site": {
+    "name": "The Piper of Dawn Wiki",
+    "shortName": "The Piper of Dawn",
+    "tagline": "Alchimie, culture, routes de personnages et fins",
+    "description": "Votre guide ultime de The Piper of Dawn ! Découvrez les recettes d'alchimie, les cultures magiques, les routes de personnages, les factions, les fins et les stratégies de progression.",
+    "legalNotice": "Wiki de fans non officiel. Réalisé par des joueurs, pour des joueurs."
+  },
+  "nav": {
+    "home": "Accueil",
+    "menu": "Menu",
+    "toggleTheme": "Changer de thème",
+    "guide": "Guide",
+    "mechanics": "Mécaniques",
+    "characters": "Personnages",
+    "progression": "Progression",
+    "reviews": "Avis",
+    "media": "Médias"
+  },
+  "home": {
+    "meta": {
+      "title": "The Piper of Dawn Wiki - Guides d'alchimie, de culture et de RPG",
+      "description": "Le wiki complet de The Piper of Dawn avec guides d'alchimie, astuces de culture, routes de personnages, informations sur les factions, fins et stratégies de jeu pour les nouveaux comme les vétérans."
+    },
+    "hero": {
+      "eyebrow": "Sim de gestion d'alchimie dark fantasy",
+      "title": "The Piper of Dawn Wiki",
+      "description": "The Piper of Dawn est un RPG de simulation dark fantasy où les joueurs deviennent alchimiste à Diamond City, cultivent des plantes magiques, gèrent une boutique d'alchimie, nouent des relations et découvrent de multiples fins.",
+      "stats": [
+        "100+ plantes disponibles",
+        "40+ PNJ disponibles",
+        "6 factions disponibles",
+        "Mises à jour hebdomadaires"
+      ],
+      "primaryCta": "Guide du débutant",
+      "secondaryCta": "Guide alchimie et cultures",
+      "tertiaryCta": "Codes actifs",
+      "videoLabel": "Bande-annonce officielle"
+    },
+    "updates": {
+      "title": "Dernières mises à jour",
+      "browse": "Parcourir tous les guides",
+      "viewAll": "Tout voir"
+    },
+    "start": {
+      "eyebrow": "Commencez ici",
+      "title": "Commencez votre voyage dans The Piper of Dawn",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guide du débutant",
+          "description": "Apprenez les bases de la résonance, l'endurance respiratoire et le cycle de l'aube au crépuscule qui régit chaque énigme et chaque rencontre."
+        },
+        {
+          "number": "2",
+          "title": "Alchimie et artisanat",
+          "description": "Rassemblez des réactifs élémentaires et améliorez quatre niveaux d'établi pour préparer potions, élixirs et décoctions permanentes."
+        },
+        {
+          "number": "3",
+          "title": "Conseils de combat et de boss",
+          "description": "Lisez les télégraphes d'attaque, esquivez les dangers acoustiques et survivez aux rencontres en trois phases qui bloquent votre progression."
+        },
+        {
+          "number": "4",
+          "title": "Personnages et compagnons",
+          "description": "Comparez les six héros jouables et composez une équipe axée sur le soutien mélodique, la défense solaire ou les dégâts de burst crépusculaires."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Pages populaires",
+      "title": "Tendances actuelles",
+      "quickLinks": [
+        "Guide du débutant",
+        "Recettes d'alchimie",
+        "Builds de personnages",
+        "Toutes les fins"
+      ],
+      "cards": [
+        {
+          "badge": "Débutant",
+          "title": "Guide du débutant",
+          "description": "Maîtrisez la résonance, l'endurance respiratoire et le cycle jour-nuit dès votre premier sanctuaire de carillon.",
+          "href": "/guide/the-piper-of-dawn-beginner-guide"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Guide d'alchimie",
+          "description": "Affinités des réactifs, quatre niveaux d'établi et élixirs de maître étape par étape.",
+          "href": "/mechanics/the-piper-of-dawn-alchemy"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Liste des personnages",
+          "description": "Rôles, résonance élémentaire et voies de build pour les six héros jouables.",
+          "href": "/characters/the-piper-of-dawn-characters"
+        },
+        {
+          "badge": "Mis à jour",
+          "title": "Toutes les fins",
+          "description": "Points de branchement, orientation d'alignement et finale transcendant secret.",
+          "href": "/progression/the-piper-of-dawn-endings"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Routes de culture",
+          "description": "Schémas d'attaque des boss, tables de butin et boucles de réinitialisation les plus rapides.",
+          "href": "/mechanics/the-piper-of-dawn-farming"
+        },
+        {
+          "badge": "Mis à jour",
+          "title": "Conseils de combat",
+          "description": "Tactiques phase par phase pour lire les ondes sonores et survivre à l'enrage.",
+          "href": "/guide/the-piper-of-dawn-tips"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Solution complète",
+          "description": "Progression acte par acte, liste de collectibles et routes de complétionniste.",
+          "href": "/guide/the-piper-of-dawn-walkthrough"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Système d'artisanat",
+          "description": "Chaînes de production et matériaux d'amélioration pour chaque objet fabriqué.",
+          "href": "/mechanics/the-piper-of-dawn-crafting"
+        },
+        {
+          "badge": "Mis à jour",
+          "title": "Date de sortie",
+          "description": "Fenêtres de feuille de route, plans de plateformes et dernières nouvelles de développement.",
+          "href": "/reviews/the-piper-of-dawn-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Qu'est-ce que The Piper of Dawn ?",
+      "paragraphs": [
+        "The Piper of Dawn est un RPG d'action dark fantasy situé dans une vallée maudite où la musique, la résonance et la lumière du jour façonnent chaque rencontre. Vous prenez le pipeau ancestral du Piper, changez de hauteur et gérez votre endurance respiratoire pour résoudre des énigmes environnementales, activer des sanctuaires de carillon et survivre aux menaces spectrales qui surgissent après le crépuscule.",
+        "Au-delà de son exploration mélodique, le jeu superpose l'artisanat alchimique, la culture de ressources et le combat accompagné de compagnons. Rassemblez des réactifs comme la Fleur de l'aube et la Feuille d'argent, améliorez quatre niveaux d'établi, formez une équipe de six héros et orientez une histoire ramifiée vers quatre fins principales plus un finale transcendant caché."
+      ],
+      "stats": [
+        {
+          "label": "Éditeur",
+          "value": "2P Games"
+        },
+        {
+          "label": "Plateforme",
+          "value": "Steam / PC"
+        },
+        {
+          "label": "Genre",
+          "value": "RPG d'action dark fantasy"
+        },
+        {
+          "label": "Durée de jeu",
+          "value": "6-9 heures"
+        },
+        {
+          "label": "Héros jouables",
+          "value": "6"
+        },
+        {
+          "label": "Fins principales",
+          "value": "4 + 1 secrète"
+        },
+        {
+          "label": "Niveaux de pipeau",
+          "value": "4"
+        },
+        {
+          "label": "Postes d'alchimie",
+          "value": "4"
+        }
+      ],
+      "cta": "Explorer tous les guides"
+    },
+    "explore": {
+      "title": "Explorez le wiki de The Piper of Dawn",
+      "description": "Plongez dans chaque système avec des guides structurés couvrant l'alchimie, la culture, les personnages, les fins, les succès, les mises à jour et les conseils de combat avancés.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guide du débutant du wiki The Piper of Dawn",
+          "description": "Un guide de démarrage couvrant la première installation d'atelier, la boucle de culture, la gestion de boutique, les bases de l'alchimie et les conseils de progression précoce. Cette section aide les nouveaux joueurs à comprendre le cycle de jeu central et à éviter les erreurs courantes durant les premières heures.",
+          "href": "/guide/the-piper-of-dawn-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Équipez le pipeau et maintenez son état au-dessus de quatre-vingts pour cent"
+            },
+            {
+              "label": "2",
+              "detail": "Sonnez le clocher de l'Ermite pour révéler les sanctuaires de carillon sur votre carte"
+            },
+            {
+              "label": "3",
+              "detail": "Reproduisez la séquence de cloches de chaque sanctuaire pour débloquer le voyage rapide"
+            },
+            {
+              "label": "4",
+              "detail": "Cueillez la Rosée d'éther à l'aube et le Quartz résonant dans les grottes"
+            },
+            {
+              "label": "5",
+              "detail": "Terminez l'Épreuve des carillons engloutis pour obtenir la Relique de l'aube"
+            },
+            {
+              "label": "6",
+              "detail": "Reposez-vous à un feu de camp avant le crépuscule pour éviter les debuffs d'hallucination"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guide d'alchimie du wiki The Piper of Dawn",
+          "description": "Un guide détaillé du système d'alchimie, incluant les matériaux d'artisanat, les recettes, les chaînes de production et les moyens d'améliorer l'efficacité de l'atelier. Les joueurs cherchant comment fabriquer des produits et débloquer les mécaniques d'alchimie trouveront ici des informations structurées.",
+          "href": "/mechanics/the-piper-of-dawn-alchemy",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Fleur de l'aube",
+              "detail": "Pétale solaire cueilli au lever du soleil pour des décoctions de soin très pures"
+            },
+            {
+              "label": "Chapeau de morosité",
+              "detail": "Spore de caverne abyssale utilisée dans les distillats de neuroparalysie"
+            },
+            {
+              "label": "Feuille d'argent",
+              "detail": "Fronde lunaire récoltée à minuit pour augmenter la régénération de mana"
+            },
+            {
+              "label": "Pyrite",
+              "detail": "Lichen terrestre riche en sels minéraux fortifiants"
+            },
+            {
+              "label": "Creuset",
+              "detail": "Établi de niveau 3 débloquant les élixirs de combat et les huiles élémentaires"
+            },
+            {
+              "label": "Athanor",
+              "detail": "Dispositif de niveau 4 requis pour les transmutations et les décoctions permanentes"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guide de culture du wiki The Piper of Dawn",
+          "description": "Ce module explique la culture des plantes, les plantes magiques, les stratégies de récolte et la préparation des ressources pour la boutique et les systèmes d'alchimie. Il cible les joueurs à la recherche de méthodes de culture efficaces et d'une meilleure planification de production.",
+          "href": "/mechanics/the-piper-of-dawn-farming",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Les builds Lanceur de sorts mobile et Assassin à deux armes nettoient le plus vite"
+            },
+            {
+              "label": "A",
+              "detail": "Les archétypes Piégeur DoT et Sentinelle maintiennent une vitesse de nettoyage élevée grâce au contrôle de zone"
+            },
+            {
+              "label": "B",
+              "detail": "Les builds Juggernaut et Cogneur échangent la vitesse contre une survie extrême"
+            },
+            {
+              "label": "C",
+              "detail": "Les builds Soutien pur et Soigneur nettoient lentement en solo mais brillent en coopération"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guide des personnages du wiki The Piper of Dawn",
+          "description": "Une section centrée sur les personnages couvrant les relations avec les PNJ, les héroïnes, les factions et les interactions narratives. Elle aide les joueurs à comprendre les routes relationnelles et les choix qui influencent les différentes issues.",
+          "href": "/characters/the-piper-of-dawn-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "The Piper",
+              "detail": "Enchanteur mélodique qui modifie l'ordre des tours et réduit les lanceurs ennemis au silence"
+            },
+            {
+              "label": "Lyra",
+              "detail": "Frappeuse sylvaine dont le passif 'Piercing Dawn' accumule des critiques à l'arrêt"
+            },
+            {
+              "label": "Bran",
+              "detail": "Gardien solaire qui immobilise les ennemis et atténue les dégâts de zone pour l'équipe"
+            },
+            {
+              "label": "Corvus",
+              "detail": "Mystique crépusculaire avec burst furtif et 'Grave-Blight' qui dépouille l'armure"
+            },
+            {
+              "label": "Aurelia",
+              "detail": "Soigneuse hybride qui restaure ses alliés avec des carillons de lumière de l'aube"
+            },
+            {
+              "label": "Kael",
+              "detail": "Escarmoucheur de givre et de tempête conçu pour le contrôle de foule"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guide des fins du wiki The Piper of Dawn",
+          "description": "Un guide expliquant les histoires ramifiées, les choix majeurs, les relations de faction et l'impact des différentes décisions sur les multiples fins du jeu. Il cible les joueurs en quête de complétion et d'issues narratives.",
+          "href": "/progression/the-piper-of-dawn-endings",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Souverain",
+              "detail": "Vraie fin de purification qui lève l'ancienne malédiction sur la vallée"
+            },
+            {
+              "label": "Creux",
+              "detail": "Voie corrompue empruntée en acceptant le pacte de mélodie sanglante du Piper"
+            },
+            {
+              "label": "Vagabond",
+              "detail": "Fin d'exil neutre pour un alignement équilibré entre Harmonie et Discorde"
+            },
+            {
+              "label": "Requiem",
+              "detail": "Finale transcendant secret débloqué en fusionnant les cinq sceaux"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guide des succès du wiki The Piper of Dawn",
+          "description": "Un guide de complétion couvrant les succès Steam, les objectifs cachés et les exigences de progression. Il aide les joueurs qui veulent débloquer tous les succès et terminer chaque activité majeure.",
+          "href": "/guide/the-piper-of-dawn-walkthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Collectionneur",
+              "detail": "Succès de complétion caché pour les runs de collection complète"
+            },
+            {
+              "label": "Vraie aube",
+              "detail": "Décerné pour avoir débloqué la route secrète de la vraie fin"
+            },
+            {
+              "label": "Éclats",
+              "detail": "Les Éclats résonants ne sont jamais définitivement manquables après l'Acte III"
+            },
+            {
+              "label": "Speedrun",
+              "detail": "Un routage optimisé réduit une partie complète à quatre ou cinq heures"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guide des mises à jour du wiki The Piper of Dawn",
+          "description": "Un suivi des actualités et mises à jour rassemblant les correctifs officiels, les changements d'équilibrage, les corrections et les annonces de contenu à venir. Les joueurs peuvent vérifier rapidement les dernières modifications de version et améliorations de gameplay.",
+          "href": "/reviews/the-piper-of-dawn-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Feuille de route",
+              "detail": "La feuille de route de développement vise une sortie entre fin 2026 et mi-2027"
+            },
+            {
+              "label": "Correctif",
+              "detail": "Les récentes mises à jour ont ajouté des élans rythmiques pour améliorer le rythme de déplacement"
+            },
+            {
+              "label": "Test",
+              "detail": "Les premières impressions alpha saluent la conception audio et la clarté des énigmes"
+            },
+            {
+              "label": "Lancement",
+              "detail": "Prévu sur PC et consoles, sans date de lancement ferme annoncée"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Astuces et conseils du wiki The Piper of Dawn",
+          "description": "Une collection de conseils de jeu avancés couvrant l'optimisation de boutique, la gestion des ressources, l'utilisation des ouvriers et les stratégies de progression efficaces. Cette section capte les recherches longue traîne des joueurs en quête d'améliorations pratiques.",
+          "href": "/guide/the-piper-of-dawn-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Phase 1",
+              "detail": "Esquivez la Perce résonante à poursuite et sautez les anneaux de l'Accord de dissolution"
+            },
+            {
+              "label": "Phase 2",
+              "detail": "Éliminez les Drones du chœur avant que leur barre d'incantation ne se remplisse"
+            },
+            {
+              "label": "Phase 3",
+              "detail": "Empilez les temps de recharge défensifs pour survivre à l'enrage du Crescendo de l'aube"
+            },
+            {
+              "label": "Parade",
+              "detail": "Les attaques ne peuvent pas être parées : esquivez et repositionnez-vous"
+            },
+            {
+              "label": "Endurance",
+              "detail": "Une endurance respiratoire vide déclenche un verrou d'hyperventilation de cinq secondes"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "description": "Réponses rapides aux questions les plus courantes sur The Piper of Dawn.",
+      "items": [
+        {
+          "question": "Qu'est-ce que The Piper of Dawn ?",
+          "answer": "The Piper of Dawn est un RPG d'action dark fantasy construit autour de la résonance musicale, de l'alchimie et de choix narratifs ramifiés. Vous incarnez le Piper, utilisant un pipeau pour résoudre des énigmes de hauteur, activer des sanctuaires de carillon et combattre des menaces spectrales dans une vallée maudite."
+        },
+        {
+          "question": "Faut-il des connaissances musicales pour jouer à The Piper of Dawn ?",
+          "answer": "Non. The Piper of Dawn associe chaque ton à des jauges de hauteur visuelles, des anneaux codés par couleur et des invites vibratoires, de sorte que les joueurs sans formation musicale peuvent résoudre ses énigmes et franchir ses rencontres."
+        },
+        {
+          "question": "Combien de temps faut-il pour terminer The Piper of Dawn ?",
+          "answer": "Une première partie à l'aveugle de The Piper of Dawn dure environ six à neuf heures. Une route optimisée pour les alignements de carillons et les chemins de donjon peut réduire une partie complète à quatre ou cinq heures."
+        },
+        {
+          "question": "Combien de fins The Piper of Dawn propose-t-il ?",
+          "answer": "The Piper of Dawn a quatre fins principales plus un finale secret. Votre résultat dépend des choix de dialogue, de l'alignement entre Harmonie et Discorde, et du fait que vous rejetiez ou acceptiez le pacte du Piper."
+        },
+        {
+          "question": "Où les nouveaux joueurs devraient-ils commencer dans The Piper of Dawn ?",
+          "answer": "Commencez par le guide du débutant, puis suivez la solution complète pour la progression acte par acte. Améliorez votre instrument et votre sacoche d'endurance avant d'entrer dans les cavernes du Val englouti."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Prêt à maîtriser The Piper of Dawn ?",
+      "description": "De votre première décoction d'alchimie à la découverte de chaque fin, notre wiki communautaire vous propose des guides gratuits et à jour.",
+      "primary": "Lire le guide du débutant",
+      "secondary": "Jouer sur Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guides du débutant du wiki The Piper of Dawn",
+    "overviewDescription": "Commencez fort avec des solutions étape par étape, des astuces de démo et des guides narratifs pour les nouveaux pipers."
+  },
+  "mechanics": {
+    "overviewTitle": "Guides des mécaniques du wiki The Piper of Dawn",
+    "overviewDescription": "Routes de culture, recettes d'alchimie, automatisation, artisanat, boutiques et gestion des ouvriers expliqués."
+  },
+  "characters": {
+    "overviewTitle": "Guides des personnages du wiki The Piper of Dawn",
+    "overviewDescription": "Analyses complètes, routes romantiques, relations et les sombres secrets de chaque personnage."
+  },
+  "progression": {
+    "overviewTitle": "Guides de progression du wiki The Piper of Dawn",
+    "overviewDescription": "Améliorations, ressources, objets, quêtes, chapitres et toutes les voies de fin au même endroit."
+  },
+  "reviews": {
+    "overviewTitle": "Avis et infos du wiki The Piper of Dawn",
+    "overviewDescription": "Avis pratiques, détails sur la date de sortie, faits Steam et si The Piper of Dawn vaut le coup."
+  },
+  "media": {
+    "overviewTitle": "Médias et gameplay du wiki The Piper of Dawn",
+    "overviewDescription": "Bandes-annonces officielles, vidéos de gameplay, longplays, couverture de bande originale et temps forts YouTube."
+  },
+  "shared": {
+    "wikiNavigation": "Navigation du wiki",
+    "activeCodes": "Codes actifs",
+    "updated": "Mis à jour",
+    "viewAllCodes": "Parcourir tous les guides",
+    "playOnRoblox": "Jouer sur Roblox",
+    "inThisSection": "Dans cette section",
+    "tableOfContents": "Table des matières",
+    "nextSteps": "Étapes suivantes",
+    "needHelp": "Besoin d'aide ?",
+    "relatedReading": "Lectures associées",
+    "relatedGuides": "Guides associés",
+    "readMore": "Lire la suite",
+    "officialMedia": "Médias officiels",
+    "home": "Accueil",
+    "noGuidesAvailable": "Aucun guide disponible pour le moment. Revenez bientôt !"
+  },
+  "footer": {
+    "aboutTitle": "The Piper of Dawn Wiki",
+    "about": "The Piper of Dawn Wiki est un hub de guides indépendant créé par des fans, couvrant les recettes d'alchimie, les cultures magiques, les routes de personnages, les factions, les fins et les connaissances essentielles du jeu, pour les nouveaux joueurs comme pour les vétérans.",
+    "quickLinks": "Liens rapides",
+    "guides": "Guides",
+    "legal": "Mentions légales",
+    "copyright": "2026 The Piper of Dawn Wiki. Non affilié à 2P Games ni aux développeurs du jeu.",
+    "description": "Sim de gestion d'alchimie dark fantasy sur Steam. Cultivez des plantes magiques, gérez une boutique d'alchimie et découvrez de multiples fins.",
+    "playGame": "Jouer sur Steam",
+    "officialDiscord": "Discord officiel",
+    "officialYoutube": "YouTube officiel",
+    "vvBuilder": "Planificateur d'alchimie",
+    "beginnerGuide": "Guide du débutant",
+    "raceGuides": "Guides des personnages",
+    "bossGuides": "Guides des factions",
+    "buildGuide": "Recettes d'alchimie",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfService": "Conditions d'utilisation"
+  }
+}

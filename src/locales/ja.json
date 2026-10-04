@@ -1,1 +1,506 @@
-{}
+{
+  "site": {
+    "name": "The Piper of Dawn Wiki",
+    "shortName": "The Piper of Dawn",
+    "tagline": "錬金術、農耕、キャラクタールート＆エンディング",
+    "description": "The Piper of Dawn の究極ガイド！錬金術レシピ、魔法の作物、キャラクタールート、派閥、エンディング、進行戦略を徹底解説します。",
+    "legalNotice": "非公式ファンウィキ。プレイヤーによる、プレイヤーのためのサイトです。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ切替",
+    "guide": "ガイド",
+    "mechanics": "メカニクス",
+    "characters": "キャラクター",
+    "progression": "進行",
+    "reviews": "レビュー",
+    "media": "メディア"
+  },
+  "home": {
+    "meta": {
+      "title": "The Piper of Dawn Wiki - 錬金術・農耕・RPGガイド",
+      "description": "錬金術ガイド、農耕のコツ、キャラクタールート、派閥情報、エンディング、ゲームプレイ戦略を網羅した完全版 The Piper of Dawn Wiki。初心者から熟練者まで対応します。"
+    },
+    "hero": {
+      "eyebrow": "ダークファンタジー錬金術経営シム",
+      "title": "The Piper of Dawn Wiki",
+      "description": "The Piper of Dawn は、プレイヤーがダイヤモンドシティの錬金術師となって魔法の作物を育て、錬金術ショップを経営し、人間関係を築きながら複数の物語エンディングを発見するダークファンタジーシミュレーションRPGです。",
+      "stats": [
+        "100種以上の作物",
+        "40人以上のNPC",
+        "6つの派閥",
+        "毎週更新"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "錬金術＆作物ガイド",
+      "tertiaryCta": "有効コード",
+      "videoLabel": "公式トレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "The Piper of Dawn の旅を始めよう",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "共鳴の基本、息継ぎスタミナ、そしてすべてのパズルと戦闘を司る夜明けから日没までのサイクルを学びましょう。"
+        },
+        {
+          "number": "2",
+          "title": "錬金術＆クラフト",
+          "description": "元素素材を集め、4段階の作業台をアップグレードしてポーション、エリクサー、永続薬を調合しましょう。"
+        },
+        {
+          "number": "3",
+          "title": "戦闘＆ボスのコツ",
+          "description": "攻撃の予兆を読み、音響ハザードを回避し、進行を阻む3段階のボス戦を生き延びましょう。"
+        },
+        {
+          "number": "4",
+          "title": "キャラクター＆仲間",
+          "description": "6人のプレイアブルヒーローを比較し、旋律サポート、太陽防御、黄昏バーストダメージを軸にパーティを組みましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "今話題のコンテンツ",
+      "quickLinks": [
+        "初心者ガイド",
+        "錬金術レシピ",
+        "キャラクタービルド",
+        "すべてのエンディング"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "最初のチャイム聖域から共鳴、息継ぎスタミナ、昼夜サイクルをマスター。",
+          "href": "/guide/the-piper-of-dawn-beginner-guide"
+        },
+        {
+          "badge": "人気",
+          "title": "錬金術ガイド",
+          "description": "素材の相性、4段階の作業台、達人級エリクサーの手順を解説。",
+          "href": "/mechanics/the-piper-of-dawn-alchemy"
+        },
+        {
+          "badge": "人気",
+          "title": "キャラクター名鑑",
+          "description": "6人のプレイアブルヒーロー全員の役割、元素共鳴、ビルドルート。",
+          "href": "/characters/the-piper-of-dawn-characters"
+        },
+        {
+          "badge": "更新",
+          "title": "すべてのエンディング",
+          "description": "分岐点、属性ルーティング、秘密の超越フィナーレ。",
+          "href": "/progression/the-piper-of-dawn-endings"
+        },
+        {
+          "badge": "人気",
+          "title": "農耕ルート",
+          "description": "ボスの攻撃パターン、ドロップテーブル、最速の周回リセット。",
+          "href": "/mechanics/the-piper-of-dawn-farming"
+        },
+        {
+          "badge": "更新",
+          "title": "戦闘のコツ",
+          "description": "音波を読み取り怒り状態を生き延びるフェーズ別戦術。",
+          "href": "/guide/the-piper-of-dawn-tips"
+        },
+        {
+          "badge": "新着",
+          "title": "完全攻略",
+          "description": "章ごとの進行、収集チェックリスト、コンプリート用ルート。",
+          "href": "/guide/the-piper-of-dawn-walkthrough"
+        },
+        {
+          "badge": "新着",
+          "title": "クラフトシステム",
+          "description": "すべてのクラフトアイテムの生産チェーンと強化素材。",
+          "href": "/mechanics/the-piper-of-dawn-crafting"
+        },
+        {
+          "badge": "更新",
+          "title": "リリース日",
+          "description": "ロードマップの時期、対応プラットフォーム、最新の開発情報。",
+          "href": "/reviews/the-piper-of-dawn-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "The Piper of Dawn とは？",
+      "paragraphs": [
+        "The Piper of Dawn は、音楽、共鳴、日光がすべての戦闘を形作る呪われた谷を舞台にしたダークファンタジーアクションRPGです。プレイヤーはパイパーの先祖伝来のリードパイプを手に取り、音程を切り替え、息継ぎスタミナを管理して、環境パズルを解き、チャイム聖域を起動し、日没後に現れる亡霊の脅威を生き延びます。",
+        "旋律に満ちた探索に加え、本作は錬金術クラフト、資源農耕、仲間と共に戦う戦闘を重ねています。夜明けの花や銀葉などの素材を集め、4段階の作業台をアップグレードし、6人のヒーローでパーティを組み、分岐する物語を4つのメインエンディングと隠された超越フィナーレへと導きましょう。"
+      ],
+      "stats": [
+        {
+          "label": "パブリッシャー",
+          "value": "2P Games"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Steam / PC"
+        },
+        {
+          "label": "ジャンル",
+          "value": "ダークファンタジーアクションRPG"
+        },
+        {
+          "label": "プレイ時間",
+          "value": "6〜9時間"
+        },
+        {
+          "label": "プレイアブルヒーロー",
+          "value": "6"
+        },
+        {
+          "label": "メインエンディング",
+          "value": "4 + 秘密1"
+        },
+        {
+          "label": "パイプ段階",
+          "value": "4"
+        },
+        {
+          "label": "錬金術ステーション",
+          "value": "4"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "The Piper of Dawn Wiki を探検",
+      "description": "錬金術、農耕、キャラクター、エンディング、実績、アップデート、上級戦闘テクニックを網羅した体系的なガイドで、あらゆるシステムを深掘りしましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "The Piper of Dawn Wiki 初心者ガイド",
+          "description": "最初の作業場設営、農耕ループ、ショップ経営、錬金術の基本、序盤の進行のコツを扱うスターターガイド。新規プレイヤーがコアなゲームサイクルを理解し、序盤のよくあるミスを避けるのに役立ちます。",
+          "href": "/guide/the-piper-of-dawn-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "リードパイプを装備し、その状態を80パーセント以上に保つ"
+            },
+            {
+              "label": "2",
+              "detail": "隠者の鐘楼を鳴らしてマップ上にチャイム聖域を出現させる"
+            },
+            {
+              "label": "3",
+              "detail": "各聖域の鐘の順番を再現してファストトラベルを解放する"
+            },
+            {
+              "label": "4",
+              "detail": "夜明けにエーテルの雫を、洞窟で共鳴石英を採集する"
+            },
+            {
+              "label": "5",
+              "detail": "沈んだチャイムの試練をクリアして夜明けの遺物を入手する"
+            },
+            {
+              "label": "6",
+              "detail": "日没前に焚き火で休み、幻覚デバフを避ける"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "The Piper of Dawn Wiki 錬金術ガイド",
+          "description": "クラフト素材、レシピ、生産チェーン、作業場効率の改善方法を含む錬金術システムの詳細ガイド。製品の作り方や錬金術メカニクスの解放方法を探しているプレイヤーに体系的な情報を提供します。",
+          "href": "/mechanics/the-piper-of-dawn-alchemy",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "夜明けの花",
+              "detail": "日の出に採取する太陽の花弁。高純度の回復薬に使われる"
+            },
+            {
+              "label": "陰鬱茸",
+              "detail": "神経麻痺の蒸留酒に使う深淵の洞窟の胞子"
+            },
+            {
+              "label": "銀葉",
+              "detail": "真夜中に収穫する月の葉。マナ回復を高める"
+            },
+            {
+              "label": "黄鉄鉱",
+              "detail": "強化ミネラル塩を豊富に含む地生の地衣"
+            },
+            {
+              "label": "坩堝",
+              "detail": "戦闘エリクサーと元素オイルを解放するティア3作業台"
+            },
+            {
+              "label": "アタノール",
+              "detail": "変成と永続薬に必要なティア4装置"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "The Piper of Dawn Wiki 農耕ガイド",
+          "description": "作物の栽培、魔法植物、収穫戦略、ショップと錬金術システムのための資源準備を解説するモジュール。効率的な農耕方法と生産計画を求めるプレイヤー向けです。",
+          "href": "/mechanics/the-piper-of-dawn-farming",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "機動スペルキャスターと二刀流アサシンのビルドが最速でクリアする"
+            },
+            {
+              "label": "A",
+              "detail": "DoTトラッパーとセントリーのアーキタイプは範囲制圧で高いクリア速度を維持する"
+            },
+            {
+              "label": "B",
+              "detail": "ジャガーノートとブルーザーのビルドは速度と引き換えに極めて高い生存力を得る"
+            },
+            {
+              "label": "C",
+              "detail": "純サポートとヒーラーのビルドはソロでは遅いが協力プレイで輝く"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "The Piper of Dawn Wiki キャラクターガイド",
+          "description": "NPCとの関係、ヒロイン、派閥、物語の交流を扱うキャラクター中心のセクション。関係ルートと異なる結末に影響する選択を理解するのに役立ちます。",
+          "href": "/characters/the-piper-of-dawn-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "パイパー",
+              "detail": "ターン順を操作し敵キャスターを沈黙させる旋律の付与術師"
+            },
+            {
+              "label": "リラ",
+              "detail": "静止中に会心を重ねる「ピアシングドーン」パッシブを持つ森のストライカー"
+            },
+            {
+              "label": "ブラン",
+              "detail": "敵を拘束しパーティの範囲ダメージを軽減する太陽の守護者"
+            },
+            {
+              "label": "コルヴス",
+              "detail": "ステルスバーストと装甲を剥がす「グレイブブライト」を持つ黄昏の神秘家"
+            },
+            {
+              "label": "オーレリア",
+              "detail": "夜明けの輝きのチャイムで味方を回復するハイブリッドヒーラー"
+            },
+            {
+              "label": "カエル",
+              "detail": "集団制御に特化した氷と嵐の軽装戦士"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "The Piper of Dawn Wiki エンディングガイド",
+          "description": "分岐する物語、主要な選択、派閥の関係、そして様々な決断がゲームの複数エンディングにどう影響するかを解説するガイド。コンプリートと物語の結末を求めるプレイヤー向けです。",
+          "href": "/progression/the-piper-of-dawn-endings",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ソヴリン",
+              "detail": "谷を覆う古代の呪いを解く真の浄化エンディング"
+            },
+            {
+              "label": "ホロウ",
+              "detail": "パイパーの血の旋律の契約を受け入れる堕落ルート"
+            },
+            {
+              "label": "ワンダラー",
+              "detail": "調和と不協和の均衡による中立の追放エンディング"
+            },
+            {
+              "label": "レクイエム",
+              "detail": "5つの印章を融合させて解放される秘密の超越フィナーレ"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "The Piper of Dawn Wiki 実績ガイド",
+          "description": "Steam実績、隠し目標、進行要件を扱うコンプリートガイド。すべての実績を解除し主要な活動を完了したいプレイヤーを支援します。",
+          "href": "/guide/the-piper-of-dawn-walkthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "コレクター",
+              "detail": "完全収集プレイ用の隠しコンプリート実績"
+            },
+            {
+              "label": "真の夜明け",
+              "detail": "秘密のトゥルーエンドルートの解放で授与される"
+            },
+            {
+              "label": "欠片",
+              "detail": "共鳴の欠片は第3章以降、永続的に取り逃し不可"
+            },
+            {
+              "label": "スピードラン",
+              "detail": "最適化ルートで全クリアを4〜5時間に短縮できる"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "The Piper of Dawn Wiki アップデートガイド",
+          "description": "公式パッチ、バランス調整、修正、今後のコンテンツ告知を集めたニュース＆アップデートトラッカー。最新バージョンの変更点とゲームプレイ改善を素早く確認できます。",
+          "href": "/reviews/the-piper-of-dawn-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "ロードマップ",
+              "detail": "開発ロードマップは2026年後半から2027年半ばのリリース時期を目標にしている"
+            },
+            {
+              "label": "パッチ",
+              "detail": "最近のアップデートで移動テンポ改善のリズミックスプリントを追加"
+            },
+            {
+              "label": "プレイテスト",
+              "detail": "初期アルファの感想はオーディオ設計とパズルの明快さを称賛"
+            },
+            {
+              "label": "ローンチ",
+              "detail": "PCとコンソール向けに予定、発売日はまだ確定していない"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "The Piper of Dawn Wiki のコツと裏技",
+          "description": "ショップ最適化、資源管理、作業員の活用、効率的な進行戦略を扱う上級ゲームプレイアドバイスの集約。実践的な改善を求めるプレイヤーのロングテール検索に対応します。",
+          "href": "/guide/the-piper-of-dawn-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "フェーズ1",
+              "detail": "追尾する共鳴の刺突を回避し、溶解の和音の輪をジャンプで越える"
+            },
+            {
+              "label": "フェーズ2",
+              "detail": "コーラスドローンの詠唱バーが完了する前に撃破する"
+            },
+            {
+              "label": "フェーズ3",
+              "detail": "防御クールダウンを重ねて夜明けのクレッシェンドの怒り状態を生き延びる"
+            },
+            {
+              "label": "パリィ",
+              "detail": "攻撃はパリィ不可のため、回避と位置調整で対応する"
+            },
+            {
+              "label": "スタミナ",
+              "detail": "息継ぎスタミナが尽きると5秒間の過呼吸ロックが発生する"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "The Piper of Dawn に関する最も一般的な質問への簡潔な回答。",
+      "items": [
+        {
+          "question": "The Piper of Dawn とは何ですか？",
+          "answer": "The Piper of Dawn は、音楽の共鳴、錬金術、分岐する物語の選択を軸にしたダークファンタジーアクションRPGです。プレイヤーはパイパーとなり、リードパイプを使って音程パズルを解き、チャイム聖域を起動し、呪われた谷で亡霊の脅威と戦います。"
+        },
+        {
+          "question": "The Piper of Dawn をプレイするのに音楽の知識は必要ですか？",
+          "answer": "いいえ。The Piper of Dawn はすべての音に視覚的な音程メーター、色分けされたリング、振動プロンプトを組み合わせているため、音楽の訓練を受けていないプレイヤーでもパズルを解き、戦闘を突破できます。"
+        },
+        {
+          "question": "The Piper of Dawn のクリアにはどのくらいかかりますか？",
+          "answer": "The Piper of Dawn の初見プレイは約6〜9時間です。チャイムの配置とダンジョンの経路を最適化したルートを使えば、フルクリアを4〜5時間に短縮できます。"
+        },
+        {
+          "question": "The Piper of Dawn にはいくつのエンディングがありますか？",
+          "answer": "The Piper of Dawn には4つのメインエンディングと1つの秘密のフィナーレがあります。結果は会話の選択、調和と不協和の属性、パイパーの契約を拒否するか受け入れるかによって決まります。"
+        },
+        {
+          "question": "新規プレイヤーは The Piper of Dawn のどこから始めるべきですか？",
+          "answer": "まず初心者ガイドから始め、次に完全攻略で章ごとの進行を追いましょう。沈んだ谷の洞窟に入る前に、楽器とスタミナのサッチェルをアップグレードしてください。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "The Piper of Dawn をマスターする準備はできましたか？",
+      "description": "最初の錬金術の調合からすべての物語エンディングの発見まで、コミュニティウィキが無料で最新のガイドを提供します。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steamでプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "The Piper of Dawn Wiki 初心者ガイド",
+    "overviewDescription": "手順付きの攻略、体験版のコツ、新米パイパー向けのストーリーガイドで好スタートを切りましょう。"
+  },
+  "mechanics": {
+    "overviewTitle": "The Piper of Dawn Wiki メカニクスガイド",
+    "overviewDescription": "農耕ルート、錬金術レシピ、自動化、クラフト、ショップ、作業員管理を解説します。"
+  },
+  "characters": {
+    "overviewTitle": "The Piper of Dawn Wiki キャラクターガイド",
+    "overviewDescription": "全キャラクターの詳細、恋愛ルート、人間関係、それぞれの裏に隠された秘密を紹介します。"
+  },
+  "progression": {
+    "overviewTitle": "The Piper of Dawn Wiki 進行ガイド",
+    "overviewDescription": "アップグレード、資源、アイテム、クエスト、章、すべてのエンディング分岐を一挙に紹介します。"
+  },
+  "reviews": {
+    "overviewTitle": "The Piper of Dawn Wiki レビューと情報",
+    "overviewDescription": "実際に遊んだレビュー、リリース日の詳細、Steamの情報、The Piper of Dawn は遊ぶ価値があるかを解説します。"
+  },
+  "media": {
+    "overviewTitle": "The Piper of Dawn Wiki メディアとゲームプレイ",
+    "overviewDescription": "公式トレーラー、ゲームプレイ動画、長時間プレイ、サウンドトラック、YouTubeの注目動画を紹介します。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "activeCodes": "有効コード",
+    "updated": "更新",
+    "viewAllCodes": "すべてのガイドを見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクション内",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。近日公開予定です！"
+  },
+  "footer": {
+    "aboutTitle": "The Piper of Dawn Wiki",
+    "about": "The Piper of Dawn Wiki は、錬金術レシピ、魔法の作物、キャラクタールート、派閥、エンディング、そして新規・ベテランのプレイヤーに欠かせないゲーム知識を扱う、独立したファン制作のガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的事項",
+    "copyright": "2026 The Piper of Dawn Wiki。2P Games および本作の開発者とは提携していません。",
+    "description": "Steamのダークファンタジー錬金術経営シム。魔法の作物を育て、錬金術ショップを経営し、複数の物語エンディングを解き明かしましょう。",
+    "playGame": "Steamでプレイ",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "公式YouTube",
+    "vvBuilder": "錬金術プランナー",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "キャラクターガイド",
+    "bossGuides": "派閥ガイド",
+    "buildGuide": "錬金術レシピ",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}
