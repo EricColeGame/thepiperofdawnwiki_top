@@ -9,7 +9,13 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "progression": "Progression",
+    "reviews": "Reviews",
+    "media": "Media"
   },
   "home": {
     "meta": {
@@ -437,12 +443,35 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "The Piper of Dawn Wiki Beginner Guides",
+    "overviewDescription": "Start strong with step-by-step walkthroughs, demo tips, and story guides for new pipers."
+  },
+  "mechanics": {
+    "overviewTitle": "The Piper of Dawn Wiki Mechanics Guides",
+    "overviewDescription": "Farming routes, alchemy recipes, automation, crafting, shops, and worker management explained."
+  },
+  "characters": {
+    "overviewTitle": "The Piper of Dawn Wiki Character Guides",
+    "overviewDescription": "Full roster breakdowns, romance routes, relationships, and the dark secrets behind each character."
+  },
+  "progression": {
+    "overviewTitle": "The Piper of Dawn Wiki Progression Guides",
+    "overviewDescription": "Upgrades, resources, items, quests, chapters, and every ending path in one place."
+  },
+  "reviews": {
+    "overviewTitle": "The Piper of Dawn Wiki Reviews and Info",
+    "overviewDescription": "Hands-on reviews, release date details, Steam facts, and whether The Piper of Dawn is worth playing."
+  },
+  "media": {
+    "overviewTitle": "The Piper of Dawn Wiki Media and Gameplay",
+    "overviewDescription": "Official trailers, gameplay videos, longplays, soundtrack coverage, and YouTube highlights."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
+    "viewAllCodes": "Browse all guides",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
